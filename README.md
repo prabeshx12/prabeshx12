@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Curious+mind+%7C+Avid+reader+%7C+Explorer;I+love+learning+how+things+work+%F0%9F%94%8D;Always+reading%2C+always+exploring+%F0%9F%93%9A" alt="Typing intro" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabeshx12&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <a href="https://github.com/prabeshx12?tab=followers">
-    <img src="https://img.shields.io/github/followers/prabeshx12?label=Followers&style=flat-square&color=7aa2f7" alt="Followers" />
-  </a>
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
@@ -44,24 +37,3 @@ I love reading and exploring things. What drives me most is understanding **how 
 </p>
 
 ---
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/prabeshx12">
-    <img src="https://img.shields.io/badge/GitHub-prabeshx12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/prabesh-bashyal-28b8b51a8">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bashyalprabesh.12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
- 
-</p>
-
----
-
-<p align="center">
-  <i>Stay curious. Keep reading. Keep exploring. 🔍</i>
-</p>
