@@ -51,14 +51,13 @@ I love reading and exploring things. What drives me most is understanding **how 
   <a href="https://github.com/prabeshx12">
     <img src="https://img.shields.io/badge/GitHub-prabeshx12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Fill in and uncomment the ones you use:
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE">
+  <a href="https://www.linkedin.com/in/prabesh-bashyal-28b8b51a8">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:you@example.com">
+  <a href="mailto:bashyalprabesh.12@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  -->
+ 
 </p>
 
 ---
